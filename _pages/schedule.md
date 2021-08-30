@@ -9,32 +9,31 @@ permalink: /schedule/
 | Date | Time | Session |
 | ---- | ---- | ------- |
 | Thursday, October 7 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT)) | RDM Basics |
-| Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | DMP Assistant |
+| Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | Help! I need a Data Management Plan! Get started using the DMP Assistant and More |
 | Thursday, November 4 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT)) | Dataverse |
 | Thursday, November 18 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST)) | RDM with Compute Canada |
 | Thursday, December 2 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-12-02&tz2=Atlantic-Standard-Time-AST)) | Panel Discussion |
 
+## Sessions
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+### RDM Basics
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+#### Title: Help! I need a Data Management Plan! Get started using the DMP Assistant and More 
+Session Description:  Are you required to have a data management plan by your funder? Or are you part of a collaborative project and want to ensure everyone is aware of their responsibilities for data management? Or maybe you simply want to be a good data steward and have a plan to manage your data. If so, you’ve come to the right session!  Erin and Louise will help you get started by providing you with the tools and resources to create an effective data management plan, whether it’s for an individual project or as part of a large collaboration.  
 
-## Features
+##### By the end of this session, participants will: 
+•	Understand the importance and utility of data management plans 
+•	Be able to build a data management plan for a current project using the free, online Portage DMP Assistant tool.  
+•	Have an awareness of resources such as the exemplar DMPs and sensitive data toolkit that can help in the planning process.  
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+##### Presenter Bio(s): 
+•	Erin MacPherson is the Research & Instruction Librarian based in Truro at the Dalhousie University Agricultural Campus.   
+•	Louise Gillis is the Research Data Management Librarian and Liaison Librarian for the College of Pharmacy and the School of Health Administration (Interim) at Dalhousie.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+
+### Dataverse
+
+### RDM with Compute Canada
+
+### Panel Discussion
+
