@@ -9,7 +9,7 @@ permalink: /schedule/
 | Date | Time | Session |
 | ---- | ---- | ------- |
 | Thursday, October 7 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT)) | RDM Basics |
-| Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#help!-i-need-a-data-management-plan!-get-started-using-the-dmp-assistant-and-more) |
+| Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#dmp) |
 | Thursday, November 4 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT)) | Dataverse |
 | Thursday, November 18 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST)) | RDM with Compute Canada |
 | Thursday, December 2 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-12-02&tz2=Atlantic-Standard-Time-AST)) | Panel Discussion |
@@ -18,7 +18,7 @@ permalink: /schedule/
 
 ### RDM Basics
 
-#### Help! I need a Data Management Plan! Get started using the DMP Assistant and More 
+#### Help! I need a Data Management Plan! Get started using the DMP Assistant and More <a id="dmp"</a>
 
 ##### Session Description:  
 Are you required to have a data management plan by your funder? Or are you part of a collaborative project and want to ensure everyone is aware of their responsibilities for data management? Or maybe you simply want to be a good data steward and have a plan to manage your data. If so, you’ve come to the right session! Erin and Louise will help you get started by providing you with the tools and resources to create an effective data management plan, whether it’s for an individual project or as part of a large collaboration.  
