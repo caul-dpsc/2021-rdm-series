@@ -18,7 +18,8 @@ permalink: /schedule/
 
 ### RDM Basics
 
-#### (#dmp) Title: Help! I need a Data Management Plan! Get started using the DMP Assistant and More 
+#### DMP
+Title: Help! I need a Data Management Plan! Get started using the DMP Assistant and More 
 Session Description:  Are you required to have a data management plan by your funder? Or are you part of a collaborative project and want to ensure everyone is aware of their responsibilities for data management? Or maybe you simply want to be a good data steward and have a plan to manage your data. If so, you’ve come to the right session! Erin and Louise will help you get started by providing you with the tools and resources to create an effective data management plan, whether it’s for an individual project or as part of a large collaboration.  
 
 ##### By the end of this session, participants will: 
