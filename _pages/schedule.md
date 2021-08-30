@@ -8,11 +8,11 @@ permalink: /schedule/
 
 | Date | Time | Session |
 | ---- | ---- | ------- |
-| Thursday, October 7 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&tz2=Atlantic-Daylight-Time-ADT)) | RDM Basics |
-| Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&tz2=Atlantic-Daylight-Time-ADT)) | DMP Assistant |
-| Thursday, November 4 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&tz2=Atlantic-Daylight-Time-ADT)) | Dataverse |
-| Thursday, November 18 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=1pm&tz2=Atlantic-Daylight-Time-AST)) | RDM with Compute Canada |
-| Thursday, December 2 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=1pm&tz2=Atlantic-Daylight-Time-AST)) | Panel Discussion |
+| Thursday, October 7 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT)) | RDM Basics |
+| Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | DMP Assistant |
+| Thursday, November 4 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT)) | Dataverse |
+| Thursday, November 18 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST)) | RDM with Compute Canada |
+| Thursday, December 2 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-12-02&tz2=Atlantic-Standard-Time-AST)) | Panel Discussion |
 
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
