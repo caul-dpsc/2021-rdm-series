@@ -54,7 +54,11 @@ Are you required to have a data management plan by your funder? Or are you part 
 + Erin MacPherson is the Research & Instruction Librarian based in Truro at the Dalhousie University Agricultural Campus.   
 + Louise Gillis is the Research Data Management Librarian and Liaison Librarian for the College of Pharmacy and the School of Health Administration (Interim) at Dalhousie.
 
-### <a id="dataverse"></a>Dataverse
+### <a id="dataverse"></a>Where to deposit your data: Dataverse? FRDR? Other?
+
+##### Session Description:
+
+##### By the end of this session, participants will: 
 
 ##### Presenter Bio:
 Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University.
