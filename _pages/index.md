@@ -74,3 +74,7 @@ Lydia joined ACENET in 2020. Her experience spans several research fields and or
 
 ### <a id="panel"></a>Panel Discussion
 
+##### Session Description:  
+
+
+##### Presenter Bio:
