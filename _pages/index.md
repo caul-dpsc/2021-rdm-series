@@ -16,7 +16,27 @@ permalink: /
 
 ## Sessions
 
-### <a id="basics"></a>RDM Basics
+### <a id="basics"></a>RDM Basics: What you need to know
+
+##### Session Description:  
+This session will look at what Research Data Management entails, why it is important to plan how to manage your data, and what the Canadian RDM landscape looks like right now. We will take a look at best practices for RDM, some national resources available to all researchers, and how to find more help for your RDM needs. 
+
+##### By the end of this session, participants will: 
++ What is RDM
++ Why is it important
++ Federal landscape
+++ Statement
+++ Draft and consultations
+++ Policy 
++ RDM basics more specifically
+++ DMPs
+++ Best practices
+++ Data Repositories
++ Portage
+++ What it is
+++ Network of experts
+++ Resources – training guides, DMP assistant 
+
 
 #### <a id="dmp"></a>Help! I need a Data Management Plan! Get started using the DMP Assistant and More
 
