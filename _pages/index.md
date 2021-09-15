@@ -26,16 +26,16 @@ This session will look at what Research Data Management entails, why it is impor
 - Why is it important
 - Federal landscape
     - Statement
- + Draft and consultations
- + Policy 
-+ RDM basics more specifically
- + DMPs
- + Best practices
- + Data Repositories
-+ Portage
- + What it is
- + Network of experts
- + Resources – training guides, DMP assistant 
+     - Draft and consultations
+    - Policy 
+- RDM basics more specifically
+    - DMPs
+    - Best practices
+    - Data Repositories
+- Portage
+    - What it is
+    - Network of experts
+    - Resources – training guides, DMP assistant 
 
 
 #### <a id="dmp"></a>Help! I need a Data Management Plan! Get started using the DMP Assistant and More
