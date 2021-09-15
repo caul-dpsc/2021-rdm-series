@@ -22,10 +22,10 @@ permalink: /
 This session will look at what Research Data Management entails, why it is important to plan how to manage your data, and what the Canadian RDM landscape looks like right now. We will take a look at best practices for RDM, some national resources available to all researchers, and how to find more help for your RDM needs. 
 
 ##### By the end of this session, participants will: 
-+ What is RDM
-+ Why is it important
-+ Federal landscape
-- Statement
+- What is RDM
+- Why is it important
+- Federal landscape
+    - Statement
  + Draft and consultations
  + Policy 
 + RDM basics more specifically
