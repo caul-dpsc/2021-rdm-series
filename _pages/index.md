@@ -25,7 +25,7 @@ This session will look at what Research Data Management entails, why it is impor
 + What is RDM
 + Why is it important
 + Federal landscape
- + Statement
+       + Statement
  + Draft and consultations
  + Policy 
 + RDM basics more specifically
