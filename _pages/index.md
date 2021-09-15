@@ -37,6 +37,8 @@ This session will look at what Research Data Management entails, why it is impor
     - Network of experts
     - Resources – training guides, DMP assistant 
 
+##### Presenter Bio:
+Alison Farrell is a Research Data Management and Public Services Librarian at the Health Sciences Library at Memorial University. Alison plays an active role in furthering RDM services and supports at Memorial. In addition Alison is leading the development of Memorial’s RDM institutional strategy and sits on a number of national committees in different areas of RDM.
 
 #### <a id="dmp"></a>Help! I need a Data Management Plan! Get started using the DMP Assistant and More
 
@@ -53,6 +55,9 @@ Are you required to have a data management plan by your funder? Or are you part 
 + Louise Gillis is the Research Data Management Librarian and Liaison Librarian for the College of Pharmacy and the School of Health Administration (Interim) at Dalhousie.
 
 ### <a id="dataverse"></a>Dataverse
+
+##### Presenter Bio:
+Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University.
 
 ### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
 
