@@ -3,14 +3,14 @@ layout: page
 title: 2021 Reserach Data Management Series
 permalink: /
 ---
-
 ## Schedule at a Glance
+
 | Date | Time | Language | Session |
 | ---- | ---- | -------- | ------- |
-| Thursday, October 7 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT)) | English | [RDM Basics: What you need to know](#basics) |
+| Thursday, October 7 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT)) | English | [RDM Basics](#basics) |
 | Thursday, October 21 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | English | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#dmp) |
-| Thursday, November 4 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT)) | English | [Where to deposit your data: Dataverse? FRDR? Other?](#dataverse) |
-| Thursday, November 18 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST)) | English | [Leveraging Advanced Digital Research Infrastructure to Support Research Data Management](#cc) |
+| Thursday, November 4 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT)) | English | [Dataverse](#dataverse) |
+| Thursday, November 18 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST)) | English | [RDM with Compute Canada](#cc) |
 | Thursday, December 2 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-12-02&tz2=Atlantic-Standard-Time-AST)) | English | [Panel Discussion](#panel) |
 
 ## Sessions
