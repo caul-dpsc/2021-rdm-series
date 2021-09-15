@@ -34,7 +34,12 @@ Are you required to have a data management plan by your funder? Or are you part 
 
 ### <a id="dataverse"></a>Dataverse
 
-### <a id="cc"></a>RDM with Compute Canada
+### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
+The national digital research infrastructure, (freely accessible for researchers at Canadian academic institutions, through regional consortia such as  ACENET), has the power to transform research projects, by allowing growth in scope, complexity, collaboration opportunities, community engagement, accessibility, and longevity. It can also be invaluable in navigating some of the challenges related to implementing best practices in research data management. Come discover how you can connect with ACENET and leverage advanced technology to support data management in your research.
+
+##### Presenter Bio:
+Lydia Vermeyden, ACENET Research Consultant Specializing in Humanities and Social Sciences
+Lydia joined ACENET in 2020. Her experience spans several research fields and organizations where she has led or collaborated in applying advanced technology, including experimental quantum physics, nursing, psychology and public health. Her varied projects include optimizing entangled photon sources, integrating e-technology with mental health screening, and developing mental health e-interventions. Prior to joining ACENET, she had been studying experiences and opinions around health and safety, and the effects of employment legislation on family farms in Alberta. She was responsible in several of her previous positions for the training of new students and staff in the area of advanced digital tools, often working with learners who had minimal exposure to advanced technology. 
 
 ### <a id="panel"></a>Panel Discussion
 
