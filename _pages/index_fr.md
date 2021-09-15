@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2021 Reserach Data Management Series <Need French Translation>
+title: 2021 Reserach Data Management Series _Need French Translation_
 permalink: /fr/
 ---
 
@@ -8,7 +8,7 @@ permalink: /fr/
 
 | Date | Time | Language | Session |
 | ---- | ---- | -------- | ------- |
-| Thursday, October 14 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-14&tz2=Atlantic-Daylight-Time-ADT)) | Français | [RDM Basics - What you need to know <Need French Translation>](#basics) |
+| Thursday, October 14 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-14&tz2=Atlantic-Daylight-Time-ADT)) | Français | [RDM Basics - What you need to know _Need French Translation_](#basics) |
 | Thursday, October 28 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-28&tz2=Atlantic-Daylight-Time-ADT)) | Français | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More <Need French Translation>](#dmp) |
 | Thursday, November 12 | 1pm ADT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-12&tz2=Atlantic-Daylight-Time-ADT)) | Français | [Where to deposit your data - Dataverse? FRDR? Other? <Need French Translation>](#dataverse) |
 | Thursday, November 25 | 1pm AST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-25&tz2=Atlantic-Standard-Time-AST)) | Français | [Leveraging Advanced Digital Research Infrastructure to Support Research Data Management](#cc) |
