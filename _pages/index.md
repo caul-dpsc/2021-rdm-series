@@ -55,6 +55,8 @@ Are you required to have a data management plan by your funder? Or are you part 
 ### <a id="dataverse"></a>Dataverse
 
 ### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
+
+##### Session Description:  
 The national digital research infrastructure, (freely accessible for researchers at Canadian academic institutions, through regional consortia such as  ACENET), has the power to transform research projects, by allowing growth in scope, complexity, collaboration opportunities, community engagement, accessibility, and longevity. It can also be invaluable in navigating some of the challenges related to implementing best practices in research data management. Come discover how you can connect with ACENET and leverage advanced technology to support data management in your research.
 
 ##### Presenter Bio:
