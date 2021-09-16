@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2021 Reserach Data Management Series
-permalink: /en/
+title: 2021 Research Data Management Series
+permalink: /
 ---
 ## Schedule at a Glance
 
