@@ -11,7 +11,7 @@ permalink: /
 | Thursday, October 21 | 1pm ADT / 1:30pm NDT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT)) | English | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#dmp) | [Register](https://stfx.libcal.com/calendar/caul/rdm-basics) |
 | Thursday, November 4 | 1pm ADT / 1:30pm NDT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT)) | English | [Where to deposit your data - Dataverse? FRDR? Other?](#dataverse) | [Register](https://stfx.libcal.com/calendar/caul/rdm-basics) |
 | Thursday, November 18 | 1pm AST / 1:30pm NST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST)) | English | [Leveraging Advanced Digital Research Infrastructure to Support Research Data Management](#cc) | [Register](https://stfx.libcal.com/calendar/caul/rdm-basics) |
-| Thursday, December 2 | 1pm AST / 1:30pm NST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-12-02&tz2=Atlantic-Standard-Time-AST)) | English | [Panel Discussion](#panel) | [Register](https://stfx.libcal.com/calendar/caul/rdm-basics) |
+| Thursday, December 2 | 1pm AST / 1:30pm NST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-12-02&tz2=Atlantic-Standard-Time-AST)) | English | [RDM Panel Discussion](#panel) | [Register](https://stfx.libcal.com/calendar/caul/rdm-basics) |
 
 ## Sessions
 
@@ -71,7 +71,7 @@ The national digital research infrastructure, (freely accessible for researchers
 Lydia Vermeyden, ACENET Research Consultant Specializing in Humanities and Social Sciences
 Lydia joined ACENET in 2020. Her experience spans several research fields and organizations where she has led or collaborated in applying advanced technology, including experimental quantum physics, nursing, psychology and public health. Her varied projects include optimizing entangled photon sources, integrating e-technology with mental health screening, and developing mental health e-interventions. Prior to joining ACENET, she had been studying experiences and opinions around health and safety, and the effects of employment legislation on family farms in Alberta. She was responsible in several of her previous positions for the training of new students and staff in the area of advanced digital tools, often working with learners who had minimal exposure to advanced technology. 
 
-### <a id="panel"></a>Panel Discussion
+### <a id="panel"></a>RDM Panel Discussion
 
 ##### Session Description:  
 
