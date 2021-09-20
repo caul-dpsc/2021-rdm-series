@@ -53,16 +53,16 @@ Are you required to have a data management plan by your funder? Or are you part 
 + Erin MacPherson is the Research & Instruction Librarian based in Truro at the Dalhousie University Agricultural Campus.   
 + Louise Gillis is the Research Data Management Librarian and Liaison Librarian for the College of Pharmacy and the School of Health Administration (Interim) at Dalhousie.
 
-### <a id="dataverse"></a>Where to deposit your data: Dataverse? FRDR? Other?
+#### <a id="dataverse"></a>Where to deposit your data: Dataverse? FRDR? Other?
 
 ##### Session Description:
 
 ##### By the end of this session, participants will: 
 
 ##### Presenter Bio:
-Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University.
+Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University. Margaret is the current chair of the CAUL-CBUA Digital Preservation and Stewardship Committee. Before joining StFX, Margaret was part of the initial RDM implementation at Dalhousie University specializing in Dataverse.
 
-### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
+#### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
 
 ##### Session Description:  
 The national digital research infrastructure, (freely accessible for researchers at Canadian academic institutions, through regional consortia such as  ACENET), has the power to transform research projects, by allowing growth in scope, complexity, collaboration opportunities, community engagement, accessibility, and longevity. It can also be invaluable in navigating some of the challenges related to implementing best practices in research data management. Come discover how you can connect with ACENET and leverage advanced technology to support data management in your research.
@@ -71,9 +71,11 @@ The national digital research infrastructure, (freely accessible for researchers
 Lydia Vermeyden, ACENET Research Consultant Specializing in Humanities and Social Sciences
 Lydia joined ACENET in 2020. Her experience spans several research fields and organizations where she has led or collaborated in applying advanced technology, including experimental quantum physics, nursing, psychology and public health. Her varied projects include optimizing entangled photon sources, integrating e-technology with mental health screening, and developing mental health e-interventions. Prior to joining ACENET, she had been studying experiences and opinions around health and safety, and the effects of employment legislation on family farms in Alberta. She was responsible in several of her previous positions for the training of new students and staff in the area of advanced digital tools, often working with learners who had minimal exposure to advanced technology. 
 
-### <a id="panel"></a>RDM Panel Discussion
+#### <a id="panel"></a>RDM Panel Discussion
 
 ##### Session Description:  
 
+Panel discussion on Research Data Management by Researchers.
 
 ##### Presenter Bio:
+TBA
