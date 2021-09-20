@@ -18,7 +18,7 @@ permalink: /
 #### <a id="basics"></a>RDM Basics: What you need to know
 
 ##### Session Description:  
-This session will look at what Research Data Management entails, why it is important to plan how to manage your data, and what the Canadian RDM landscape looks like right now. We will take a look at best practices for RDM, some national resources available to all researchers, and how to find more help for your RDM needs. 
+This session will look at what Research Data Management entails, why it is important to plan how to manage your data, and what the Canadian RDM landscape looks like right now. We will look at best practices for RDM, some national resources available to all researchers, and how to find more help for your RDM needs. 
 
 ##### By the end of this session, participants will: 
 - What is RDM
@@ -27,7 +27,7 @@ This session will look at what Research Data Management entails, why it is impor
     - Statement
      - Draft and consultations
     - Policy 
-- RDM basics more specifically
+- RDM basics, more specifically:
     - DMPs
     - Best practices
     - Data Repositories
@@ -37,7 +37,7 @@ This session will look at what Research Data Management entails, why it is impor
     - Resources – training guides, DMP assistant 
 
 ##### Presenter Bio:
-Alison Farrell is a Research Data Management and Public Services Librarian at the Health Sciences Library at Memorial University. Alison plays an active role in furthering RDM services and supports at Memorial. In addition Alison is leading the development of Memorial’s RDM institutional strategy and sits on a number of national committees in different areas of RDM.
+Alison Farrell is a Research Data Management and Public Services Librarian at the Health Sciences Library at Memorial University. Alison plays an active role in furthering RDM services and supports at Memorial. In addition, Alison is leading the development of Memorial’s RDM institutional strategy and sits on a number of national committees in different areas of RDM.
 
 #### <a id="dmp"></a>Help! I need a Data Management Plan! Get started using the DMP Assistant and More
 
@@ -56,20 +56,27 @@ Are you required to have a data management plan by your funder? Or are you part 
 #### <a id="dataverse"></a>Where to deposit your data: Dataverse? FRDR? Other?
 
 ##### Session Description:
+You received your grant, gathered your data, finished your research, published or are in the process of publishing your paper. Now what? Are you asking yourself where you should deposit your data? How do you meet the Tri-Agency deposit requirements? This session will discuss various deposit options such as Discipline Specific Repositories, Dataverse, and FRDR. It will also show you how you can find help at your institution.
 
 ##### By the end of this session, participants will: 
+- Identify where they can deposit their data
+- Become familiar with:
+    - Dataverse
+    - FRDR
+    - Discipline Specific Repositories
+- How to get help at their institution
 
 ##### Presenter Bio:
-Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University. Margaret is the current chair of the CAUL-CBUA Digital Preservation and Stewardship Committee. Before joining StFX, Margaret was part of the initial RDM implementation at Dalhousie University specializing in Dataverse.
+Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University. Margaret is the current chair of the CAUL-CBUA Digital Preservation and Stewardship Committee. Before joining StFX, Margaret was part of the initial RDM implementation at Dalhousie University, specializing in Dataverse.
 
 #### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
 
 ##### Session Description:  
-The national digital research infrastructure, (freely accessible for researchers at Canadian academic institutions, through regional consortia such as  ACENET), has the power to transform research projects, by allowing growth in scope, complexity, collaboration opportunities, community engagement, accessibility, and longevity. It can also be invaluable in navigating some of the challenges related to implementing best practices in research data management. Come discover how you can connect with ACENET and leverage advanced technology to support data management in your research.
+The national digital research infrastructure (freely accessible for researchers at Canadian academic institutions, through regional consortia such as  ACENET) has the power to transform research projects by allowing growth in scope, complexity, collaboration opportunities, community engagement, accessibility, and longevity. It can also be invaluable in navigating some of the challenges related to implementing best practices in research data management. Discover how you can connect with ACENET and leverage advanced technology to support data management in your research.
 
 ##### Presenter Bio:
 Lydia Vermeyden, ACENET Research Consultant Specializing in Humanities and Social Sciences
-Lydia joined ACENET in 2020. Her experience spans several research fields and organizations where she has led or collaborated in applying advanced technology, including experimental quantum physics, nursing, psychology and public health. Her varied projects include optimizing entangled photon sources, integrating e-technology with mental health screening, and developing mental health e-interventions. Prior to joining ACENET, she had been studying experiences and opinions around health and safety, and the effects of employment legislation on family farms in Alberta. She was responsible in several of her previous positions for the training of new students and staff in the area of advanced digital tools, often working with learners who had minimal exposure to advanced technology. 
+Lydia joined ACENET in 2020. Her experience spans several research fields and organizations where she has led or collaborated in applying advanced technology, including experimental quantum physics, nursing, psychology and public health. Her varied projects include optimizing entangled photon sources, integrating e-technology with mental health screening, and developing mental health e-interventions. Prior to joining ACENET, she had been studying experiences and opinions around health and safety and the effects of employment legislation on family farms in Alberta. She was responsible in several of her previous positions for the training of new students and staff in advanced digital tools, often working with learners who had minimal exposure to advanced technology. 
 
 #### <a id="panel"></a>RDM Panel Discussion
 
