@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_fr
 title: Série 2021 de webinaires sur la gestion des données de recherche
 permalink: /fr
 ---
