@@ -10,79 +10,76 @@ permalink: /fr
 | Date | Time | Language | Session | Register |
 | ---- | ---- | -------- | ------- | -------- |
 | Jeudi 14 octobre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | Français | [Introduction à la GDR - Ce que vous devez savoir](#gdr) | [Inscription](https://stfx.libcal.com/calendar/caul/rdm-basics){:target="_blank"} |
-| Jeudi 28 octobre |12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | Français | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#dmp) | [Inscription](https://stfx.libcal.com/calendar/caul/dmp){:target="_blank"} |
-| Jeudi 11 novembre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | Français | [Where to deposit your data - Dataverse? FRDR? Other?](#dataverse) | [Inscription](https://stfx.libcal.com/calendar/caul/deposit){:target="_blank"} |
-| Jeudi 25 novembre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST){:target="_blank"}) | Français | [Leveraging Advanced Digital Research Infrastructure to Support Research Data Management](#cc) | [Inscription](https://stfx.libcal.com/calendar/caul/acenet){:target="_blank"} |
+| Jeudi 28 octobre |12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | Français | [À l’aide! J’ai besoin d’un plan de gestion de données! Utilisez l'assistant PGD et plus encore](#dmp) | [Inscription](https://stfx.libcal.com/calendar/caul/dmp){:target="_blank"} |
+| Jeudi 11 novembre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | Français | [Où déposer vos données – Dataverse? DFDR? Autre?](#dataverse) | [Inscription](https://stfx.libcal.com/calendar/caul/deposit){:target="_blank"} |
+| Jeudi 25 novembre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST){:target="_blank"}) | Français | [Exploiter l’infrastructure de recherche numérique d'avant-garde pour soutenir la gestion des données de recherche](#cc) | [Inscription](https://stfx.libcal.com/calendar/caul/acenet){:target="_blank"} |
 
-## Sessions
+## Webinaires
 
-#### <a id="gdr"></a>RDM Basics: What you need to know
+#### <a id="gdr"></a>Introduction à la GDR - Ce que vous devez savoir
 
-##### Session Description:  
-This session will look at what Research Data Management entails, why it is important to plan how to manage your data, and what the Canadian RDM landscape looks like right now. We will look at best practices for RDM, some national resources available to all researchers, and how to find more help for your RDM needs. 
+##### Description du webinaire:  
+Ce webinaire examinera ce que comporte la gestion des données de recherche, pourquoi il est important de planifier la gestion de vos données et à quoi ressemble actuellement le contexte canadien de la GDR. Nous examinerons les meilleures pratiques en matière de GDR, certaines ressources nationales disponibles pour tous les chercheurs et comment trouver de l'aide additionnelle pour vos besoins en matière de GDR.
 
-##### By the end of this session, participants will: 
-- What is RDM
-- Why is it important
-- Federal landscape
-    - Statement
-     - Draft and consultations
-    - Policy 
-- RDM basics, more specifically:
-    - DMPs
-    - Best practices
-    - Data Repositories
-- Portage
-    - What it is
-    - Network of experts
-    - Resources – training guides, DMP assistant 
+##### À la fin de la séance, les participants sauront : 
+- Ce qu’est la GDR
+- Pourquoi la GDR est importante
+- Le contexte politique fédéral
+    - Déclaration
+    - Projet et consultations
+    - Politique 
+- Les base de la GDR, plus spécifiquement 
+    - Les PGD
+    - Les meilleures pratiques
+    - Les dépôts de données
+- Ce qu’est Portage
+    - Réseau d’experts
+    - Ressources – guides de formation, Assistant PGD
 
-##### Presenter Bio:
-Alison Farrell is a Research Data Management and Public Services Librarian at the Health Sciences Library at Memorial University. Alison plays an active role in furthering RDM services and supports at Memorial. In addition, Alison is leading the development of Memorial’s RDM institutional strategy and sits on a number of national committees in different areas of RDM.
+##### Bio de la présentatrice:
+Nadia Zurek est bibliothécaire en soutien à la recherche à l’Université du Québec à Trois-Rivières et membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI. 
 
-##### Moderator: Louise Gillis
+##### Modératrice: Cynthia Lisée
 
-#### <a id="dmp"></a>Help! I need a Data Management Plan! Get started using the DMP Assistant and More
+#### <a id="dmp"></a>À l’aide! J’ai besoin d’un plan de gestion de données! Utilisez l'assistant PGD et plus encore
 
-##### Session Description:  
-Are you required to have a data management plan by your funder? Or are you part of a collaborative project and want to ensure everyone is aware of their responsibilities for data management? Or maybe you simply want to be a good data steward and have a plan to manage your data. If so, you’ve come to the right session! Erin and Louise will help you get started by providing you with the tools and resources to create an effective data management plan, whether it’s for an individual project or as part of a large collaboration.  
+##### Description du webinaire:  
+Votre bailleur de fonds exige-t-il un plan de gestion des données ? Ou faites-vous partie d'un projet de collaboration pour lequel vous voulez vous assurer que chacun soit conscient de ses responsabilités en matière de gestion des données ? Ou peut-être voulez-vous simplement améliorer les pratiques de gestion de vos données. L'un ou l'autre cas, vous êtes au bon webinaire ! Émilie vous aidera à casser la glace en vous fournissant les outils et les ressources nécessaires pour créer un plan de gestion des données efficace, que ce soit pour un projet individuel ou dans le cadre d'une grande collaboration.
 
-##### By the end of this session, participants will: 
-+ Understand the importance and utility of data management plans 
-+ Be able to build a data management plan for a current project using the free, online Portage DMP Assistant tool.  
-+ Have an awareness of resources such as the exemplar DMPs and sensitive data toolkit that can help in the planning process.  
+##### À la fin de la séance, les participants sauront: 
++ Comprendront l'importance et l'utilité des plans de gestion des données
++ Seront capables d'élaborer un plan de gestion des données pour un projet en cours en utilisant l'Assistant PGD de Portage, un outil gratuit et en ligne
++ Connaîtront des ressources utiles au processus de planification telles que les modèles de plans de gestion des données et la boîte à outils pour les données sensibles.
 
-##### Presenter Bio(s): 
-+ Erin MacPherson is the Research & Instruction Librarian based in Truro at the Dalhousie University Agricultural Campus.   
-+ Louise Gillis is the Research Data Management Librarian and Liaison Librarian for the College of Pharmacy and the School of Health Administration (Interim) at Dalhousie.
+##### Bio de la présentatrice: 
+Émilie Fortin est bibliothécaire spécialiste en gestion des données de la recherche et préservation numérique à l’Université Laval et membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI
 
-##### Moderator: Alison Farrell
+##### Modératrice: Victoria Volkanova
 
-#### <a id="dataverse"></a>Where to deposit your data: Dataverse? FRDR? Other?
+#### <a id="dataverse"></a>Où déposer vos données – Dataverse? DFDR? Autre?
 
-##### Session Description:
-You received your grant, gathered your data, finished your research, published or are in the process of publishing your paper. Now what? Are you asking yourself where you should deposit your data? How do you meet the Tri-Agency deposit requirements? This session will discuss various deposit options such as Discipline Specific Repositories, Dataverse, and FRDR. It will also show you how you can find help at your institution.
+##### Description du webinaire:  
+Vous avez reçu votre subvention, recueilli vos données, terminé votre recherche, publié ou êtes sur le point de publier votre article. Et maintenant ? Vous vous demandez où vous devez déposer vos données ? Comment satisfaire aux exigences de dépôt des trois Conseils ? Ce webinaire abordera les différentes options de dépôt telles que les dépôts disciplinaires, la solution Dataverse et le dépôt fédéral DFDR. La séance vous permettra également d'identifier l'aide disponible auprès de votre institution.
 
 ##### By the end of this session, participants will: 
-- Identify where they can deposit their data
-- Become familiar with:
+- Sauront identifier où ils peuvent déposer leurs données
+- Se familiariseront avec :
     - Dataverse
-    - FRDR
-    - Discipline Specific Repositories
-- How to get help at their institution
+    - DFDR
+    - Les dépôts spécifiques à une discipline
+- Sauront comment obtenir de l'aide au sein de leur institution
 
-##### Presenter Bio:
-Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University. Margaret is the current chair of the CAUL-CBUA Digital Preservation and Stewardship Committee. Before joining StFX, Margaret was part of the initial RDM implementation at Dalhousie University, specializing in Dataverse.
+##### Bio de la présentatrice:
+Jonathan Dorey est agent de recherche dédié à la gestion des données de recherche pour l’INRS, l’ENAP et la TÉLUQ. Il est également membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI.
 
-##### Moderator: Erin MacPherson
+##### Modératrice: Cynthia Lisée
 
-#### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
+#### <a id="cc"></a>Exploiter l’infrastructure de recherche numérique d'avant-garde pour soutenir la gestion des données de recherche
 
-##### Session Description:  
-The national digital research infrastructure (freely accessible for researchers at Canadian academic institutions, through regional consortia such as  ACENET) has the power to transform research projects by allowing growth in scope, complexity, collaboration opportunities, community engagement, accessibility, and longevity. It can also be invaluable in navigating some of the challenges related to implementing best practices in research data management. Discover how you can connect with ACENET and leverage advanced technology to support data management in your research.
+##### Description du webinaire:
+L'infrastructure de recherche numérique nationale (librement accessible aux chercheurs des établissements universitaires canadiens, par l'intermédiaire de consortiums régionaux comme ACENET) a le pouvoir de transformer les projets de recherche en permettant d'en accroître la portée, la complexité, les possibilités de collaboration, l'engagement communautaire, l'accessibilité et la longévité. Elle peut également s'avérer inestimable pour relever certains des défis liés à la mise en œuvre des meilleures pratiques en matière de gestion des données de recherche. Découvrez comment vous pouvez vous connecter à ACENET et tirer parti d'une technologie avancée pour soutenir la gestion des données dans votre recherche.
 
-##### Presenter Bio:
-Lydia Vermeyden, ACENET Research Consultant Specializing in Humanities and Social Sciences
-Lydia joined ACENET in 2020. Her experience spans several research fields and organizations where she has led or collaborated in applying advanced technology, including experimental quantum physics, nursing, psychology and public health. Her varied projects include optimizing entangled photon sources, integrating e-technology with mental health screening, and developing mental health e-interventions. Prior to joining ACENET, she had been studying experiences and opinions around health and safety and the effects of employment legislation on family farms in Alberta. She was responsible in several of her previous positions for the training of new students and staff in advanced digital tools, often working with learners who had minimal exposure to advanced technology. 
+##### Bio de la présentatrice:
+Need French Bio
 
-##### Moderator: Margaret Vail
+##### Modératrice: Cynthia Lisée
