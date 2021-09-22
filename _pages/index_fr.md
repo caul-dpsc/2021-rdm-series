@@ -1,22 +1,22 @@
 ---
 layout: page
-title: 2021 Research Data Management Series
+title: Série 2021 de webinaires sur la gestion des données de recherche
 permalink: /fr
 ---
-Are you a researcher who has received a Tri-Agency Grant, or do you plan to apply for one in the future? Do you want to learn more about the Tri-Agency Research Data Management Policy? This webinar series will teach you everything you need to know about the Tri-Agency Research Data Management Policy and how you can be ready to meet the policy requirements.
+Êtes-vous un chercheur ayant reçu une subvention des trois organismes de financement du fédéral ou prévoyez-vous en demander une ? Voulez-vous en savoir plus sur la politique des trois organismes sur la gestion des données de recherche ? Cette série de webinaires vous apprendra tout ce que vous devez savoir sur la politique des trois organismes sur la gestion des données de recherche et comment vous pouvez être prêt à répondre aux exigences de celle-ci.
 
-## Schedule at a Glance
+## La programmation en un coup d’œil
 
 | Date | Time | Language | Session | Register |
 | ---- | ---- | -------- | ------- | -------- |
-| Thursday, October 7 | 1pm ADT / 1:30pm NDT([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | English | [RDM Basics - What you need to know](#basics) | [Register](https://stfx.libcal.com/calendar/caul/rdm-basics){:target="_blank"} |
-| Thursday, October 21 | 1pm ADT / 1:30pm NDT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | English | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#dmp) | [Register](https://stfx.libcal.com/calendar/caul/dmp){:target="_blank"} |
-| Thursday, November 4 | 1pm ADT / 1:30pm NDT ([Find your time](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | English | [Where to deposit your data - Dataverse? FRDR? Other?](#dataverse) | [Register](https://stfx.libcal.com/calendar/caul/deposit){:target="_blank"} |
-| Thursday, November 18 | 1pm AST / 1:30pm NST ([Find your time](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST){:target="_blank"}) | English | [Leveraging Advanced Digital Research Infrastructure to Support Research Data Management](#cc) | [Register](https://stfx.libcal.com/calendar/caul/acenet){:target="_blank"} |
+| Jeudi 14 octobre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-07&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | English | [Introduction à la GDR - Ce que vous devez savoir](#gdr) | [Inscription](https://stfx.libcal.com/calendar/caul/rdm-basics){:target="_blank"} |
+| Jeudi 28 octobre |12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-10-21&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | English | [Help! I need a Data Management Plan! Get started using the DMP Assistant and More](#dmp) | [Inscription](https://stfx.libcal.com/calendar/caul/dmp){:target="_blank"} |
+| Jeudi 11 novembre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=1pm&d=2021-11-04&tz2=Atlantic-Daylight-Time-ADT){:target="_blank"}) | English | [Where to deposit your data - Dataverse? FRDR? Other?](#dataverse) | [Inscription](https://stfx.libcal.com/calendar/caul/deposit){:target="_blank"} |
+| Jeudi 25 novembre | 12:00 EST / 13:00 ADT / 13:30 NDT ([convertir le fuseau](https://dateful.com/time-zone-converter?t=12pm&d=2021-11-18&tz2=Atlantic-Standard-Time-AST){:target="_blank"}) | English | [Leveraging Advanced Digital Research Infrastructure to Support Research Data Management](#cc) | [Inscription](https://stfx.libcal.com/calendar/caul/acenet){:target="_blank"} |
 
 ## Sessions
 
-#### <a id="basics"></a>RDM Basics: What you need to know
+#### <a id="gdr"></a>RDM Basics: What you need to know
 
 ##### Session Description:  
 This session will look at what Research Data Management entails, why it is important to plan how to manage your data, and what the Canadian RDM landscape looks like right now. We will look at best practices for RDM, some national resources available to all researchers, and how to find more help for your RDM needs. 
