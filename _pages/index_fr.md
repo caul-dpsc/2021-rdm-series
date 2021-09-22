@@ -74,12 +74,12 @@ Jonathan Dorey est agent de recherche dédié à la gestion des données de rech
 
 ##### Modératrice: Cynthia Lisée
 
-#### <a id="cc"></a>Exploiter l’infrastructure de recherche numérique d'avant-garde pour soutenir la gestion des données de recherche
+#### <a id="cc"></a>Exploiter l’infrastructure de recherche numérique de pointe pour favoriser la gestion des données de recherche
 
 ##### Description du webinaire:
-L'infrastructure de recherche numérique nationale (librement accessible aux chercheurs des établissements universitaires canadiens, par l'intermédiaire de consortiums régionaux comme ACENET) a le pouvoir de transformer les projets de recherche en permettant d'en accroître la portée, la complexité, les possibilités de collaboration, l'engagement communautaire, l'accessibilité et la longévité. Elle peut également s'avérer inestimable pour relever certains des défis liés à la mise en œuvre des meilleures pratiques en matière de gestion des données de recherche. Découvrez comment vous pouvez vous connecter à ACENET et tirer parti d'une technologie avancée pour soutenir la gestion des données dans votre recherche.
+L’infrastructure de recherche numérique nationale (accessible librement aux chercheurs aux établissements universitaires canadiens par l’entremise de consortiums régionaux comme ACENET) a le pouvoir de transformer les projets de recherche en permettant une croissance de portée, de complexité, de possibilités de collaboration, de mobilisation communautaire, d’accessibilité et de longévité. Elle peut également s’avérer d’une utilité sans pareille pour relever certains des défis liés à la mise en œuvre de pratiques exemplaires en matière de gestion des données de recherche. Découvrez les moyens de vous connecter à ACENET et de mobiliser la technologie de pointe pour favoriser la gestion des données dans votre recherche.  
 
 ##### Bio de la présentatrice:
-Need French Bio
+Michele Fash, directrice, Développement des activités, ACENET. Michele travaille dans le marketing depuis près de 30 ans, dans les secteurs public et privé ainsi que dans diverses industries. Elle a travaillé notamment pour les Affaires publiques au ministère de la Défense nationale à Ottawa, elle a commercialisé les frites pour McCain Foods (Canada), le sable et le gravier pour Shaw Group Ltd. en Nouvelle-Écosse, et les dispositifs médicaux pour Uplift Technologies. Elle a également assuré des services de consultation privée à des organisations allant d’entreprises en démarrage à d’importantes multinationales. À ACENET, Michele est responsable du marketing et du rayonnement.
 
 ##### Modératrice: Cynthia Lisée
