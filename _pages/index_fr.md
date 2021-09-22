@@ -52,7 +52,7 @@ Votre bailleur de fonds exige-t-il un plan de gestion des données ? Ou faites-v
 + Connaîtront des ressources utiles au processus de planification telles que les modèles de plans de gestion des données et la boîte à outils pour les données sensibles.
 
 ##### Bio de la présentatrice: 
-Émilie Fortin est bibliothécaire spécialiste en gestion des données de la recherche et préservation numérique à l’Université Laval et membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI
+Émilie Fortin a complété sa maîtrise en science de l'information à l'Université de Montréal en passant une année à la Haute école de gestion de Genève. En 2010, elle a été embauchée à la Bibliothèque de l'Université Laval comme responsable de l’équipe de production numérique, de la préservation et de la conservation des collections. Depuis janvier 2021, elle s’occupe de la gestion des données de recherche (GDR) ainsi que de la préservation numérique. En février de la même année, elle s’est jointe au groupe de travail sur la GDR du sous-comité des bibliothèques du BCI.
 
 ##### Modératrice: Victoria Volkanova
 
