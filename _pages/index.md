@@ -5,7 +5,7 @@ permalink: /
 ---
 Are you a researcher who has received a Tri-Agency Grant, or do you plan to apply for one in the future? Do you want to learn more about the Tri-Agency Research Data Management Policy? This webinar series will teach you everything you need to know about the Tri-Agency Research Data Management Policy and how you can be ready to meet the policy requirements.
 
-Special thanks to our organizers: Margaret Vail (StFX), Cynthia Lisée (UQAM), Cynthia Holt (CAUL-CBUA), Erin MacPherson (Dal), Louise Gillis (Dal), Alison Farrel (MUN), Lydia Vermeyden (Acenet), and Jonathan Dorey (INRS)
+<b>Special thanks to our organizers:</b> Margaret Vail (StFX), Cynthia Lisée (UQAM), Cynthia Holt (CAUL-CBUA), Erin MacPherson (Dal), Louise Gillis (Dal), Alison Farrel (MUN), Lydia Vermeyden (Acenet), and Jonathan Dorey (INRS)
 
 ## Schedule at a Glance
 
