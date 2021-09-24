@@ -5,6 +5,8 @@ permalink: /fr
 ---
 Êtes-vous un chercheur ayant reçu une subvention des trois organismes de financement du fédéral ou prévoyez-vous en demander une ? Voulez-vous en savoir plus sur la politique des trois organismes sur la gestion des données de recherche ? Cette série de webinaires vous apprendra tout ce que vous devez savoir sur la politique des trois organismes sur la gestion des données de recherche et comment vous pouvez être prêt à répondre aux exigences de celle-ci.
 
+<b?Un merci tout particulier à nos organisateurs</b> : Margaret Vail (StFX), Cynthia Lisée (UQAM), Cynthia Holt (CAUL-CBUA), Erin MacPherson (Dal), Louise Gillis (Dal), Alison Farrel (MUN), Lydia Vermeyden (Acenet) et Jonathan Dorey (INRS).
+
 ## La programmation en un coup d’œil
 
 | Date | Time | Language | Session | Register |
@@ -37,7 +39,7 @@ Ce webinaire examinera ce que comporte la gestion des données de recherche, pou
     - Ressources – guides de formation, Assistant PGD
 
 ##### Bio de la présentatrice :
-Nadia Zurek est bibliothécaire en soutien à la recherche à l’Université du Québec à Trois-Rivières et membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI. 
+Nadia Zurek est bibliothécaire en soutien à la recherche à l’Université du Québec à Trois-Rivières et membre du Groupe de travail sur la gestion des données de recherche su Sous-comité des bibliothèques du BCI. Ses fonctions l’appellent à développer et offrir aux chercheurs des services en lien avec la communication savante, la bibliométrie et la gestion des données de recherche.
 
 ##### Modératrice : Cynthia Lisée
 
