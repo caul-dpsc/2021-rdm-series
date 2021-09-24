@@ -5,7 +5,7 @@ permalink: /fr
 ---
 Êtes-vous un chercheur ayant reçu une subvention des trois organismes de financement du fédéral ou prévoyez-vous en demander une ? Voulez-vous en savoir plus sur la politique des trois organismes sur la gestion des données de recherche ? Cette série de webinaires vous apprendra tout ce que vous devez savoir sur la politique des trois organismes sur la gestion des données de recherche et comment vous pouvez être prêt à répondre aux exigences de celle-ci.
 
-<b>Un merci tout particulier à nos organisateurs</b> : Margaret Vail (StFX), Cynthia Lisée (UQAM), Cynthia Holt (CAUL-CBUA), Erin MacPherson (Dal), Louise Gillis (Dal), Alison Farrel (MUN), Lydia Vermeyden (Acenet), Jennifer Abel (NDRIO), Jonathan Dorey (INRS) et Victoria Volkanova (UdeMoncton).
+<b>Un merci tout particulier à nos organisateurs</b> : Margaret Vail (StFX), Cynthia Lisée (UQAM), Cynthia Holt (CAUL-CBUA), Erin MacPherson (Dal), Louise Gillis (Dal), Alison Farrel (MUN), Lydia Vermeyden (Acenet), Jennifer Abel (NOIRN), Jonathan Dorey (INRS) et Victoria Volkanova (UdeMoncton).
 
 ## La programmation en un coup d’œil
 
