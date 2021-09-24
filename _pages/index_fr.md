@@ -41,7 +41,8 @@ Ce webinaire examinera ce que comporte la gestion des données de recherche, pou
 ##### Bio de la présentatrice :
 Nadia Zurek est bibliothécaire en soutien à la recherche à l’Université du Québec à Trois-Rivières et membre du Groupe de travail sur la gestion des données de recherche su Sous-comité des bibliothèques du BCI. Ses fonctions l’appellent à développer et offrir aux chercheurs des services en lien avec la communication savante, la bibliométrie et la gestion des données de recherche.
 
-##### Modératrice : Cynthia Lisée
+##### Modératrice : 
+Cynthia Lisée, Bibliothécaire en soutien à la recherche, Université du Québec à Montréal 
 
 #### <a id="dmp"></a>À l’aide! J’ai besoin d’un plan de gestion de données! Utilisez l'assistant PGD et plus encore
 
@@ -56,7 +57,8 @@ Votre bailleur de fonds exige-t-il un plan de gestion des données ? Ou faites-v
 ##### Bio de la présentatrice : 
 Émilie Fortin a complété sa maîtrise en science de l'information à l'Université de Montréal en passant une année à la Haute école de gestion de Genève. En 2010, elle a été embauchée à la Bibliothèque de l'Université Laval comme responsable de l’équipe de production numérique, de la préservation et de la conservation des collections. Depuis janvier 2021, elle s’occupe de la gestion des données de recherche (GDR) ainsi que de la préservation numérique. En février de la même année, elle s’est jointe au groupe de travail sur la GDR du sous-comité des bibliothèques du BCI.
 
-##### Modératrice : Victoria Volkanova
+##### Modératrice : 
+Victoria Volkanova, Bibliothécaire de référence, Université du Moncton 
 
 #### <a id="dataverse"></a>Où déposer vos données – Dataverse? DFDR? Autre?
 
@@ -74,7 +76,8 @@ Vous avez reçu votre subvention, recueilli vos données, terminé votre recherc
 ##### Bio du présentateur :
 Jonathan Dorey est agent de recherche dédié à la gestion des données de recherche pour l’INRS, l’ENAP et la TÉLUQ. Il est également membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI.
 
-##### Modératrice : Cynthia Lisée
+##### Modératrice : 
+Cynthia Lisée, Bibliothécaire en soutien à la recherche, Université du Québec à Montréal 
 
 #### <a id="cc"></a>Exploiter l’infrastructure de recherche numérique de pointe pour favoriser la gestion des données de recherche
 
@@ -84,4 +87,5 @@ L’infrastructure de recherche numérique nationale (accessible librement aux c
 ##### Bio de la présentatrice :
 Michele Fash, directrice, Développement des activités, ACENET. Michele travaille dans le marketing depuis près de 30 ans, dans les secteurs public et privé ainsi que dans diverses industries. Elle a travaillé notamment pour les Affaires publiques au ministère de la Défense nationale à Ottawa, elle a commercialisé les frites pour McCain Foods (Canada), le sable et le gravier pour Shaw Group Ltd. en Nouvelle-Écosse, et les dispositifs médicaux pour Uplift Technologies. Elle a également assuré des services de consultation privée à des organisations allant d’entreprises en démarrage à d’importantes multinationales. À ACENET, Michele est responsable du marketing et du rayonnement.
 
-##### Modératrice : Cynthia Lisée
+##### Modératrice : 
+Cynthia Lisée, Bibliothécaire en soutien à la recherche, Université du Québec à Montréal 
