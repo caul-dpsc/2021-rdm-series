@@ -77,7 +77,7 @@ Vous avez reçu votre subvention, recueilli vos données, terminé votre recherc
 Jonathan Dorey est agent de recherche dédié à la gestion des données de recherche pour l’INRS, l’ENAP et la TÉLUQ. Il est également membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI.
 
 ##### Modératrice : 
-Cynthia Lisée, Bibliothécaire en soutien à la recherche, Université du Québec à Montréal 
+Cynthia Lisée, Bibliothécaire en soutien à la recherche, Université de Québec à Montréal 
 
 #### <a id="cc"></a>Exploiter l’infrastructure de recherche numérique de pointe pour favoriser la gestion des données de recherche
 
