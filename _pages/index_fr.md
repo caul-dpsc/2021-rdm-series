@@ -58,7 +58,7 @@ Votre bailleur de fonds exige-t-il un plan de gestion des données ? Ou faites-v
 Émilie Fortin a complété sa maîtrise en science de l'information à l'Université de Montréal en passant une année à la Haute école de gestion de Genève. En 2010, elle a été embauchée à la Bibliothèque de l'Université Laval comme responsable de l’équipe de production numérique, de la préservation et de la conservation des collections. Depuis janvier 2021, elle s’occupe de la gestion des données de recherche (GDR) ainsi que de la préservation numérique. En février de la même année, elle s’est jointe au groupe de travail sur la GDR du sous-comité des bibliothèques du BCI.
 
 ##### Modératrice : 
-Victoria Volkanova, Bibliothécaire de référence, Université du Moncton 
+Victoria Volkanova, Bibliothécaire de référence (Faculté des sciences, FESR -MÉE) et Communication savante, données statistiques et de recherche, Université du Moncton 
 
 #### <a id="dataverse"></a>Où déposer vos données – Dataverse? DFDR? Autre?
 
