@@ -42,7 +42,8 @@ This session will look at what Research Data Management entails, why it is impor
 ##### Presenter Bio:
 Alison Farrell is a Research Data Management and Public Services Librarian at the Health Sciences Library at Memorial University. Alison plays an active role in furthering RDM services and supports at Memorial. In addition, Alison is leading the development of Memorial’s RDM institutional strategy and sits on a number of national committees in different areas of RDM.
 
-##### Moderator: Louise Gillis
+##### Moderator: 
+Louise Gillis, Research Data Management Librarian and Liaison Librarian, College of Pharmacy and the School of Health Administration (Interim), Dalhousie University
 
 #### <a id="dmp"></a>Help! I need a Data Management Plan! Get started using the DMP Assistant and More
 
@@ -58,7 +59,8 @@ Are you required to have a data management plan by your funder? Or are you part 
 + Erin MacPherson is the Research & Instruction Librarian based in Truro at the Dalhousie University Agricultural Campus.   
 + Louise Gillis is the Research Data Management Librarian and Liaison Librarian for the College of Pharmacy and the School of Health Administration (Interim) at Dalhousie.
 
-##### Moderator: Alison Farrell
+##### Moderator: 
+Alison Farrell, Research Data Management and Public Services Librarian, Health Sciences Library, Memorial University Libraries
 
 #### <a id="dataverse"></a>Where to deposit your data: Dataverse? FRDR? Other?
 
@@ -76,7 +78,8 @@ You received your grant, gathered your data, finished your research, published o
 ##### Presenter Bio:
 Margaret Vail is the Systems and Data Services Librarian at St. Francis Xavier University. Margaret is the current chair of the CAUL-CBUA Digital Preservation and Stewardship Committee. Before joining StFX, Margaret was part of the initial RDM implementation at Dalhousie University, specializing in Dataverse.
 
-##### Moderator: Erin MacPherson
+##### Moderator: 
+Erin MacPherson, Research & Instruction Librarian, Dalhousie University Libraries
 
 #### <a id="cc"></a>Leveraging Advanced Digital Research Infrastructure to Support Research Data Management
 
@@ -86,4 +89,5 @@ The national digital research infrastructure, (freely accessible for researchers
 ##### Presenter Bio:
 Michele Fash, Director Business Development, ACENET. Michele has been in the marketing field for almost 30 years, her work spanning both the public and private sectors and a variety of industries. Along the way, she’s worked in Public Affairs with the Department of National Defence in Ottawa, marketed fries for McCain Foods (Canada), sand and gravel for Nova Scotia's Shaw Group Ltd. and medical devices for Uplift Technologies. She’s also done private consulting with organizations ranging from start-up to large nationals. Within ACENET, Michele is responsible for marketing and outreach.
 
-##### Moderator: Margaret Vail
+##### Moderator: 
+Margaret Vail, Systems and Data Services Librarian, Angus L. MacDonald Library, St. Francis Xavier University
