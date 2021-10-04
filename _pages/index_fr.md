@@ -74,7 +74,7 @@ Vous avez reçu votre subvention, recueilli vos données, terminé votre recherc
 - Sauront comment obtenir de l'aide au sein de leur institution
 
 ##### Bio du présentateur :
-Jonathan Dorey est agent de recherche dédié à la gestion des données de recherche pour l’INRS, l’ENAP et la TÉLUQ. Il est également membre du Groupe de travail GDR du Sous-comité des bibliothèques du BCI.
+Jonathan Dorey est agent de recherche en gestion des données de recherche pour l'Institut national de la recherche scientifique (INRS), l'École nationale d'administration publique (ENAP) et l'Université TÉLUQ, trois établissements du réseau de l'Université du Québec. Jonathan fait également partie de l'équipe de développement de Dataverse au sein de Scholars Portal, où il est responsable du volet traduction et localisation en français. Il s'implique également dans le Groupe de travail sur la gestion des données de recherche (GT-GDR) du BCI et dans le Groupe d'experts sur la planification de la gestion des données du Réseau Portage.
 
 ##### Modératrice : 
 Cynthia Lisée, Bibliothécaire en soutien à la recherche, Université de Québec à Montréal 
